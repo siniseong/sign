@@ -2,6 +2,7 @@
 > 이 레포지토리는 오직 로그인, 회원가입 (기본 조건) 만 구현되어 있습니다.
 
 ## 사용 방법
+이 레포지토리를 클론합니다.
 [neon db](https://neon.tech/)에 접속합니다. 
 1. New Project
 2. Project Name 설정
